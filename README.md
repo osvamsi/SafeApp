@@ -1,4 +1,4 @@
-### SafeApp
+# SafeApp
 
 This is an innovative web app made for everyone to commute safely. This application used heavily ArcGIS online cloud technologies using the geolocation services. Deployed in ArcGIS WebApp Builder. The complete application is presented on ArcGIS StoryMaps.
 
