@@ -15,3 +15,6 @@ Screenshotsof SafeApp:
 ![WhatsApp Image 2019-09-22 at 8 49 48 AM](https://user-images.githubusercontent.com/43055292/65390760-7c8ac900-dd16-11e9-99ce-98888afdc570.jpeg)
 
 
+
+##Heat Map:
+![heat_map](https://user-images.githubusercontent.com/39944188/65390816-bf4ca100-dd16-11e9-808f-fc26bd1d3274.jpg)
