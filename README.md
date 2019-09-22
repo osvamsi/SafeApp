@@ -16,5 +16,5 @@ Screenshotsof SafeApp:
 
 
 
-##Heat Map:
+## Heat Map:
 ![heat_map](https://user-images.githubusercontent.com/39944188/65390816-bf4ca100-dd16-11e9-808f-fc26bd1d3274.jpg)
